@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>5adc24a82ff7011064732f2ef699b664</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>test-exp</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 22:11:27</sys_created_on>
+        <sys_id>6adc24a82ff7011064732f2ef699b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Exp</sys_name>
+        <sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope>
+        <sys_update_name>sys_ux_page_registry_6adc24a82ff7011064732f2ef699b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 22:11:27</sys_updated_on>
+        <title>Test Exp</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</application>
+        <file_path/>
+        <instance_id>c0d8474cdb1e24502f68c59705961903</instance_id>
+        <instance_name>dev106615</instance_name>
+        <name>sys_ux_page_registry_6adc24a82ff7011064732f2ef699b668</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>5adc24a82ff7011064732f2ef699b664</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>test-exp</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-27 22:11:27</sys_created_on><sys_id>6adc24a82ff7011064732f2ef699b668</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Exp</sys_name><sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package><sys_policy/><sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope><sys_update_name>sys_ux_page_registry_6adc24a82ff7011064732f2ef699b668</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-27 22:11:27</sys_updated_on><title>Test Exp</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1346696691</payload_hash>
+        <record_name>Test Exp</record_name>
+        <reverted_from/>
+        <source>501a14282fb7011064732f2ef699b624</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 22:11:27</sys_created_on>
+        <sys_id>66dc24a82ff7011064732f2ef699b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181079310090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 22:11:27</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>aedc24a865f7011021cadbd89ea8c56a</update_guid>
+        <update_guid_history>aedc24a865f7011021cadbd89ea8c56a:1346696691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-28 03:20:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>3d742ed5ee32478b9415d6b589d05981</sys_id>
+        <sys_metadata>6adc24a82ff7011064732f2ef699b668</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Exp</sys_name>
+        <sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope>
+        <sys_scope_delete display_value="">171e6e34875d4ef68bb72158cf29f0d9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_6adc24a82ff7011064732f2ef699b668</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_6adc24a82ff7011064732f2ef699b668">66dc24a82ff7011064732f2ef699b66b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-28 03:20:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>BIG-IP Pool Creation</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>bigip-pool-creation</route_type>
+        <screen_type display_value="BIG-IP Pool Creation">bbfc28a82ff7011064732f2ef699b6d9</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 22:12:06</sys_created_on>
+        <sys_id>c40d68a82ff7011064732f2ef699b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BIG-IP Pool Creation</sys_name>
+        <sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope>
+        <sys_update_name>sys_ux_app_route_c40d68a82ff7011064732f2ef699b633</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 22:12:06</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=c40d68a82ff7011064732f2ef699b633"/>
+</record_update>

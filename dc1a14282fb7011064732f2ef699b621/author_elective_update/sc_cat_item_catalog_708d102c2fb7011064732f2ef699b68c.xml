@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="BIG-IP Pool Creation Request">609a1c282fb7011064732f2ef699b64d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 21:04:26</sys_created_on>
+        <sys_id>708d102c2fb7011064732f2ef699b68c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.BIG-IP Pool Creation Request</sys_name>
+        <sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_708d102c2fb7011064732f2ef699b68c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 21:04:26</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</application>
+        <file_path/>
+        <instance_id>c0d8474cdb1e24502f68c59705961903</instance_id>
+        <instance_name>dev106615</instance_name>
+        <name>sc_cat_item_catalog_708d102c2fb7011064732f2ef699b68c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="BIG-IP Pool Creation Request">609a1c282fb7011064732f2ef699b64d</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-27 21:04:26</sys_created_on><sys_id>708d102c2fb7011064732f2ef699b68c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.BIG-IP Pool Creation Request</sys_name><sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package><sys_policy/><sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope><sys_update_name>sc_cat_item_catalog_708d102c2fb7011064732f2ef699b68c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-27 21:04:26</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1947878169</payload_hash>
+        <record_name>Service Catalog.BIG-IP Pool Creation Request</record_name>
+        <reverted_from/>
+        <source>501a14282fb7011064732f2ef699b624</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 21:04:26</sys_created_on>
+        <sys_id>388d102c2fb7011064732f2ef699b691</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1810755b6410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 21:04:26</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>bc8d102cf9b701107102d522c9fc0090</update_guid>
+        <update_guid_history>bc8d102cf9b701107102d522c9fc0090:-1947878169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.BIG-IP Pool Creation Request">1d9d502c2fb7011064732f2ef699b6df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 21:04:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>30ac7dea14674bb994241e55579901f9</sys_id>
+        <sys_metadata>708d102c2fb7011064732f2ef699b68c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.BIG-IP Pool Creation Request</sys_name>
+        <sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package>
+        <sys_parent display_value="BIG-IP Pool Creation Request">609a1c282fb7011064732f2ef699b64d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope>
+        <sys_scope_delete display_value="">171e6e34875d4ef68bb72158cf29f0d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_708d102c2fb7011064732f2ef699b68c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_708d102c2fb7011064732f2ef699b68c">388d102c2fb7011064732f2ef699b691</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 21:04:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
