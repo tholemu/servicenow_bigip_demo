@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="BIG-IP Pool Creation Request">609a1c282fb7011064732f2ef699b64d</catalog_item>
+        <catalog_variable>IO:9f3030ac2ff7011064732f2ef699b619</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-28 03:24:08</sys_created_on>
+        <sys_id>cc64b5a82ffb011064732f2ef699b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pool_members</sys_name>
+        <sys_package display_value="BIG-IP App Delivery" source="x_830134_big_ip_0">dc1a14282fb7011064732f2ef699b621</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BIG-IP App Delivery">dc1a14282fb7011064732f2ef699b621</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_cc64b5a82ffb011064732f2ef699b600</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-28 03:24:08</sys_updated_on>
+        <table/>
+        <ui_policy display_value="pool_members_mandatory">3b34f1a82ffb011064732f2ef699b68c</ui_policy>
+        <variable>pool_members</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
